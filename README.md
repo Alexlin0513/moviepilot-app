@@ -9,18 +9,6 @@
 MoviePilot App 是 [MoviePilot](https://github.com/jxxghp/MoviePilot) 项目的移动端客户端。
 - **构建工具**: HBuilderX
 
-## 📦 项目结构
-
-```
-moviepilot-app/
-├── api/                    # API 接口封装
-│   ├── auth.js            
-│   ├── download.js        
-│   ├── search.js          
-│   ├── site.js            
-│   └── index.js           
-```
-
 ## 🔗 相关链接
 
 - [MoviePilot 主项目](https://github.com/jxxghp/MoviePilot)
